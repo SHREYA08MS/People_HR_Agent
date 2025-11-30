@@ -1,0 +1,7 @@
+Aarti Kumar
+Email: aarti@example.com
+Phone: +91-9876543210
+Experience:
+Software Engineer at X (2019-2023) - Developed Python services, used Docker, AWS.
+Skills: Python, SQL, Docker, AWS, PyTorch
+Education: B.Tech Computer Science
